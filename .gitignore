@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Coverage reports
+coverage/
+
+# Jest cache
+.jest-cache/
+.jest/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Env files
+.env
+.env.local
+
+# VSCode settings (optional)
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# System Files
+Thumbs.db
